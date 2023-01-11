@@ -1,2 +1,2 @@
-print("hunfrye")
-print("python is baets")
+print("hungry")
+print("python is the best")
